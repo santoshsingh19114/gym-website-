@@ -1,0 +1,62 @@
+body{
+background-repeat: no-repeat;
+
+}
+
+
+
+.left{
+
+}
+
+.mid{
+flex-direction: column;
+width: 36%;
+
+}
+
+
+
+
+
+.right{
+
+
+    
+
+
+}
+
+
+
+.navbar{
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+.navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 20px;
+}
+
+
+
+.btn{
+
+}
+
+
+
+.container{
+    
+}
+
+
+
+
+
+
+
